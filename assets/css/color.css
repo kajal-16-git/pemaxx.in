@@ -1,0 +1,43 @@
+:root{
+    --white-color : #fff;
+    --blach-color : #000;
+    --primary-color : #ff561c;
+    --secondary-color : #0e241d ;
+}
+
+h1.banner__content-heading{
+    color: var(--white-color);
+}
+
+.banner__content-heading span{
+    color: var(--primary-color);
+}
+.banner__content-moto{
+    color: var(--white-color);
+}
+
+.trk-btn--primary {
+    background-color: var(--primary-color);
+    border: 1px solid var(--primary-color);
+}
+
+.trk-btn--outline2 {
+    border: 1px solid var(--white-color);
+    color: var(--white-color);
+}
+
+.banner__content-social p{
+    color: var(--white-color);
+}
+
+.social__link--style1 {
+    background: var(--white-color);
+}
+
+.swiper-nav__btn.active i, .swiper-nav__btn.active svg, .swiper-nav__btn:hover i, .swiper-nav__btn:hover svg{
+    color: var(--white-color);
+}
+
+.swiper-nav__btn.active, .swiper-nav__btn:hover{
+    color: var(--white-color);
+}

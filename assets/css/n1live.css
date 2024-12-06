@@ -1,0 +1,90 @@
+
+[data-bs-theme=dark] {
+    --brand-color:#00D094;
+    --secondary-color:#ffce81;
+    --tertiary-color:#002A1E;
+    --tertiary-color2:#002A1E;
+    --tertiary-color3:#0E221E;
+    --body-color:#00150F;
+    --border-color:rgba(230, 237, 251, 0.1215686275);
+    --border-color-2: rgba(255, 255, 255, 0.08);
+    --border-color-3: #E6EDFB;
+    --border-color-4: #1B2D29;
+    --border-color-5: rgba(255, 255, 255, 0.08);
+    --border-color-6: rgba(255, 255, 255, 0.08);
+    --border-color-7: #00533B;
+    --border-color-8: rgba(234, 219, 215, 0.06);
+    --header-bg-color: #0e352a;
+    --feature-bg-color: rgba(229, 237, 248, 0.087);
+    --social-border-color:rgba(255, 255, 255, 0.0784313725);
+    --social-border-color-2:rgba(255, 255, 255, 0.0784313725);
+    --social-border-color-3:rgba(255, 255, 255, 0.1);
+    --form-border:#DCDFE833;
+    --title-color:#FFFFFF;
+    --title-color-style2:#BBC2C7;
+    --text-color:rgba(255, 255, 255, 0.6);
+    --text-color-light:#FFFFFF;
+    --text-color-2: rgba(255, 255, 255, 0.6);
+    --text-color-3: rgba(255, 255, 255, 0.70);
+    --bg-color: rgba(237, 242, 248, 0.08);
+    --bg-color-trans: rgba(237, 242, 248, 0.02);
+    --bg-grad-color: #253A33;
+    --bg-grad-color-trans: rgba(255, 255, 255, 0.00);
+    --bg-grad-color-2: rgba(213, 229, 249, 0.16);
+    --bg-grad-color-trans-2: rgba(255, 255, 255, 0.04);
+    --bg-grad-color-3: rgba(32, 56, 51, 0.50);
+    --bg-grad-color-trans-3: rgba(2, 29, 21, 0.00);
+    --bg-grad-color-4: rgba(0, 208, 148, 0.24);
+    --bg-grad-color-trans-4: rgba(0, 208, 148, 0.00);
+    --bg-color-2:#2D2C2C;
+    --bg-color-3:#00150F;
+    --bg-color-4:linear-gradient(150.39deg, rgba(237, 242, 248, 0.0264) 15.02%, rgba(237, 242, 248, 0.12) 99.59%);
+    --bg-color-5:linear-gradient(150.39deg, rgba(237, 242, 248, 0.22) 15.02%, #EDF2F8 99.59%);
+    --bg-color-6:#2D2C2C;
+    --bg-color-7:rgba(255, 255, 255, 0.0392156863);
+    --bg-color-8:#124D6D;
+    --bg-color-9:#000;
+    --bg-white:#ffffff;
+    --bg-team:#1c2e2a;
+    --form-focus-color:#366CD5;
+    --wh-color:#1B2D29;
+    --black-color:#fff;
+    --floating-content-border-color: rgba(0, 0, 0, 0.02);
+    --floating-content-bg-color: rgba(63, 81, 75, 0.80);
+    --floating-content-bg-color-2: rgba(255, 255, 255, 0.08);
+    --service-item-border-color: #091E19;
+    --service-item-bg-color: rgba(33, 52, 47, 1);
+    --faq-item-btn-border-color: #FFFFFF14;
+    --faq-bg-color: #21342F;
+    --extra-bg-color: #21342F;
+    --tag-bg-color: #002A1E;
+    --bg-shape-color: rgba(213, 229, 249, 0.08);
+    --bg-shape-color-trans: rgba(255, 255, 255, 0.02);
+    --bg-shape-color-2: rgba(213, 229, 249, 0.16);
+    --bg-shape-color-trans-2: rgba(255, 255, 255, 0.04);
+    --footer-bg-color: #00150F;
+    --faq-img-bg-shadow: #16d4668f;
+    --pagination-bg-color: #00150F;
+    --section-bg-color: rgba(237, 242, 248, 0.02);
+    --sec-bg-color-2: #081c17;
+    --account-bg-color: #00150F;
+    --account-bg-color2: #00150F;
+    --arrow-color1: #2B4B43;
+    --arrow-icon-color: #fff;
+    --header-border-color: rgba(255, 255, 255, 0.16);
+    --banner2-bg-color: #0e241d;
+    --about-img-bg-shadow: #85F2D382;
+    --cta-img-bg-shadow: #45554b;
+    --error-color:#F04438;
+    --warning-color:#F79009;
+    --success-color:#12B76A;
+    --danger-color:#FF0000;
+  }
+  
+
+  @media (min-width: 992px) {
+    .page-header {
+      padding-block: 50px !important;
+    }
+  }
+
